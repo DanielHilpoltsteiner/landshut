@@ -28,8 +28,8 @@ please contact an organizer immediately.
 ### **Landshut**
 
 * Organizers:
-    * Stephen:        [https://twitter.com/stephenbelanger](https://twitter.com/stephenbelanger)
-    * Gareth:         [http://twitter.com/gyaresu](http://twitter.com/gyaresu)
+    * Daniel:        [https://twitter.com/Hilpoltsteinerd](https://twitter.com/HilpoltsteinerD)
+    * Daniel:         [http://twitter.com/TheRealPaganda](http://twitter.com/TheRealPaganda)
     
 * Homepage:
     * [NodeSchool Landshut](https://github.com/nodeschool/Landshut)
